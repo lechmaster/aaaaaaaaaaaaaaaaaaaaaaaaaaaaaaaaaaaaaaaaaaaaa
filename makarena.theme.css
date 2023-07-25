@@ -1,0 +1,70 @@
+/**
+ * @name makarena
+ * @author Disease#5663
+ * @version 1.0.11
+ * @description macOS with barely any customization.
+ * @source https://github.com/maenDisease/Solana
+ * @invite BShu37e4jg
+ * @website https://maendisease.github.io/
+ * @authorId 678469587444170762
+ * @BDEditor Solana
+*/
+
+@import url('https://maendisease.github.io/Solana/Solana.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/css/bdAddonMini.css');
+@import url('https://maendisease.github.io/BetterDiscordStuff/Themes/Solana/addon/mac-titlebar.css');
+@import url('https://mwittrien.github.io/BetterDiscordAddons/Themes/EmojiReplace/base/Apple.css');
+
+:root {
+  --accent-hue: 289;
+  --accent-saturation: 45%;
+  --accent-brightness: 62%;
+  --background-accent-hue: 287;
+  --background-accent-saturation: 0%;
+  --background-accent-brightness: 100%;
+  --background-image: initial; /* url(https://site.com/foobar.png) | URL MUST BE A DIRECT LINK (ending in .jpg, .jpeg, .png, .gif) */
+  --background-image-position: center;
+  --background-image-size: cover;
+  --background-image-blur: 0px;
+  --background-overlay-opacity: 64%;
+  --background-overlay-color-lightness: -0.26;
+  --background-hue-shift-strength: 100%;
+  --window-background-image: initial;
+  --window-background-image-position: center;
+  --window-background-image-size: cover;
+  --window-background-image-attachment: fixed;
+  --window-opacity: 23%;
+  --window-blur: 31;
+  --window-friends-blur: 32;
+  --window-margin: 24;
+  --window-margin-left: 0;
+  --window-border-radius: 24px;
+  --window-background-lightness: 0.25;
+  --window-accent-tint-strength: 5%;
+  --chat-bubble: 0;
+  --text-link-hue: 311;
+  --chat-text-brightness: -0.29;
+  --home-icon: initial;
+  --favorites-icon: initial;
+  --dock-blur: 37; /* Blur intensity of the dock. */
+  --dock-border-radius: 1;
+  --sidebar-width: 231px;
+  --members-width: 64px;
+  --sidebar-text-brightness: -0.24;
+  --background-floating-blur: 21px;
+  --floating-background-lightness: -0.07;
+  --background-floating-opacity: 1;
+  --enable-floating-transparency: 1;
+  --custom-font-display: "";
+  --custom-font-regular: "";
+  --custom-font-primary: "";
+  --custom-font-code: "";
+  --enable-blur: 1;
+}
+
+/* Any custom CSS below here */
+
+
